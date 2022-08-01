@@ -1,2 +1,3 @@
 # Google-Rendered-Share-Button
-A button that lets you share interactive posts on the now discontinued Google+
+
+A rendered button that lets you share interactive posts on Google+. Credit to the Google+ Developers' Website for the code at: https://developers.google.com/+/web/share/interactive (I have slightly edited the code).
