@@ -1,0 +1,14 @@
+<div id="sharePost"></div>
+<script type="text/javascript">
+  var options = {
+    contenturl: 'https://plus.google.com/pages/',
+    contentdeeplinkid: '/pages',
+    clientid: 'xxxx.apps.googleusercontent.com',
+    cookiepolicy: 'single_host_origin',
+    prefilltext: 'Check out my latest post!',
+    calltoactionlabel: 'CREATE',
+    calltoactionurl: 'http://plus.google.com/pages/create',
+    calltoactiondeeplinkid: '/pages/create'
+  };  
+  gapi.interactivepost.render("sharePost", options);
+</script>
