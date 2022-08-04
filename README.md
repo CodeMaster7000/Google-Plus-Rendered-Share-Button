@@ -9,3 +9,5 @@ A rendered button that lets you share interactive posts on Google+. Credit to th
 - Call-to-action label
 
 NOTE: In both files, you must replace the default `xxxx.apps.googleusercontent.com` on the `clientid` with your Client ID URL.
+
+DISCLAIMER: Google+ is now discontinued.
